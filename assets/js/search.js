@@ -2,6 +2,7 @@ function findElementById(id) {
     // Return the element in the DOM with corresponding `id`
 
     // Your code here
+    return document.getElementById(id)
 }
 
 function findFirstElementOfTag(tag) {
